@@ -29,4 +29,5 @@ shoppingCart.sort()
 
 shoppingCart.reverse()
 
+console.log('In the list: ' + shoppingList)
 console.log('In the cart: ' + shoppingCart)
